@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+
+display: flex;
+justify-content: space-evenly;
+
+}
+
+.box1{
+    padding: 20px;
+    width: 110;
+    background-color: bisque;
+}
+
+.box2{
+    padding: 20px;
+    width: 110;
+    background-color: coral;
+}
+
+.box3{
+    padding: 20px;
+    width: 110;
+    background-color: indianred;
+}
